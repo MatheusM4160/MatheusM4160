@@ -15,16 +15,13 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
+    <a href = "mailto: matheusmcantarela@gmail.com">
+      <img width="30" src="gmail.png">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
+    <a href = "www.linkedin.com/in/matheus-merelis-b1134b2b3">
+      <img width="25" src="linkedin.png">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/matheusmerelis_oficial_/">
       <img width="25" src="instagram.png">
     </a>
 </div>
