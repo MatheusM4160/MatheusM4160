@@ -19,7 +19,7 @@
     <a href = "mailto: matheusmcantarela@gmail.com">
       <img width="30" src="gmail.png">
     </a>
-    <a href = "www.linkedin.com/in/matheus-merelis-b1134b2b3">
+    <a href = "https://www.linkedin.com/in/matheus-merelis-b1134b2b3/">
       <img width="25" src="linkedin.png">
     </a>
     <a href = "https://www.instagram.com/matheusmerelis_oficial_/">
