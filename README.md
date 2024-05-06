@@ -2,15 +2,15 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusM4160&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true" width="400em"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusM4160&layout=compact&langs_count=16&theme=shadow_red" width="400em"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusM4160&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusM4160&layout=compact&langs_count=16&theme=neon"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="icegif-567.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Minhas Linguagens :)</h1>
     <img align="center" height="40" width="40" alt="py-icon"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png">
    </div>
     
