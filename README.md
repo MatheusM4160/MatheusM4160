@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="icegif-567.gif">
+    <img align="left" height="250" width="325" alt="coding-time" src="icegif-567.gif">
     <h1 align="center">Minhas Linguagens :)</h1>
     <img align="center" height="40" width="40" alt="py-icon"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png">
    </div>
