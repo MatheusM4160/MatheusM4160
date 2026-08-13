@@ -7,7 +7,7 @@
 Construindo projetos, aprendendo tecnologia.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MatheusM4160-181717?style=for-the-badge\&logo=github)](https://github.com/MatheusM4160)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Merelis-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/matheus-merelis-b1134b2b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Merelis-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/matheus-merelis-cantarela-b1134b2b3/)
 
 </div>
 
@@ -77,7 +77,7 @@ Atualmente, meus principais interesses são:
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/matheus-merelis-b1134b2b3/">
+<a href="https://www.linkedin.com/in/matheus-merelis-cantarela-b1134b2b3/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
